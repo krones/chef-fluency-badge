@@ -5,5 +5,5 @@ log_level                :info
 log_location             STDOUT
 node_name                "matt"
 client_key               "#{current_dir}/matt.pem"
-chef_server_url          "https://54.86.159.235/organizations/slickerdeals"
+chef_server_url          "https://52.90.24.223/organizations/slickerdeals"
 cookbook_path            ["#{current_dir}/../cookbooks"]
